@@ -111,7 +111,7 @@ function App() {
               Live Demo
             </a>
             <a
-              href="https://github.com/IOannisFilippidis/GLA"
+              href="https://github.com/Ioannis-web/GLA"
               target="_blank"
               rel="noreferrer"
             >
@@ -172,11 +172,11 @@ function App() {
           <li>
             🧑‍💻 GitHub:{" "}
             <a
-              href="https://github.com/Ioanis Filippidis"
+              href="https://github.com/Ioannis-web"
               target="_blank"
               rel="noreferrer"
             >
-              github.com/IoanisFilippidis
+              github.com/Ioannis-web
             </a>
           </li>
         </ul>
